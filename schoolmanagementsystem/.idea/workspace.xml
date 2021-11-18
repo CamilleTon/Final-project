@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="279bf782-f1bf-46c0-a562-0ea853b61766" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/micamsof/schoolmanagementsystem/repository/StudentRepo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/micamsof/schoolmanagementsystem/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/micamsof/schoolmanagementsystem/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/micamsof/schoolmanagementsystem/repository/StudentRepo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/micamsof/schoolmanagementsystem/repository/StudentRepo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/micamsof/schoolmanagementsystem/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/micamsof/schoolmanagementsystem/service/StudentService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,10 +63,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="codeWithMe.voiceChat.enabledByDefault" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="CodeWithMe" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.micamsof.schoolmanagementsystem.exception" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration name="SchoolmanagementsystemApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
@@ -87,7 +94,8 @@
       <updated>1637139813937</updated>
       <workItem from="1637139815201" duration="397000" />
       <workItem from="1637140505495" duration="363000" />
-      <workItem from="1637140881012" duration="1252000" />
+      <workItem from="1637140881012" duration="2983000" />
+      <workItem from="1637212387346" duration="2024000" />
     </task>
     <servers />
   </component>
@@ -104,5 +112,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

@@ -26,6 +26,8 @@ public class Student implements Serializable {
         this.studentNumber = studentNumber;
     }
 
+    public Student() {}
+
     public Long getId() {
         return id;
     }
